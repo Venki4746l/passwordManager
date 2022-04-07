@@ -1,0 +1,33 @@
+Preparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[K
+> password-manager@1.0.0 build /home/workspace/.tmp/reactjs/coding-practices/passwordManager
+> react-scripts build
+
+Preparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KCreating an optimized production build...
+Preparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KPreparing files to publish ... \[0m[KPreparing files to publish ... |[0m[KPreparing files to publish ... /[0m[KPreparing files to publish ... -[0m[KCompiled successfully.
+
+File sizes after gzip:
+
+  42.59 KB  build/static/js/2.c4972c0f.chunk.js
+  1.68 KB   build/static/js/main.e4284dc8.chunk.js
+  1.55 KB   build/static/css/main.80e11f65.chunk.css
+  776 B     build/static/js/runtime-main.e012bfe2.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+[?25h[KPreparing files to publish ... [32mDone[0m
+[0mZipping ...
+Publishing ...
+[31m
+Domain URL format is incorrect. Use <yourdomain>.ccbp.tech as input. Ex: fm.ccbp.tech. A maximum of 15 characters is allowed.
+[0m
